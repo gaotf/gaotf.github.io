@@ -23,12 +23,12 @@
     <meta http-equiv="x-dns-prefetch-control" content="on">
 
 
-    <link rel="dns-prefetch" href="https://cdn1.lncld.net"/>
-
 
     <link rel="dns-prefetch" href="https://busuanzi.ibruce.info"/>
 
 
+
+        <link rel="dns-prefetch" href="https://cdn-city.livere.com"/>
 
 
 
@@ -442,28 +442,27 @@
                 <!-- Post Comments -->
                 
                     
-    <div id="comment" style='padding:10px;' class="vcomment"></div>
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-<script>
-    var GUEST_INFO = ['nick','mail','link'];
-    var guest_info = 'nick,mail,link'.split(',').filter(function(item){
-        return GUEST_INFO.indexOf(item) > -1
-    });
-    var notify = 'false' == true;
-    var verify = 'false' == true;
-    new Valine({
-        el: '.vcomment',
-        notify: notify,
-        verify: verify,
-        appId: "A3M7O0Vb9JoOvXzBObYC1CFf-gzGzoHsz",
-        appKey: "wOg9K6iEDMBJSCDf9FSNGx60",
-        placeholder: "好汉留下名讳可好~",
-        pageSize:'10',
-        avatar:'identicon',
-        lang:'zh-cn'
-    });
-</script>
+    <!-- 使用 来必力 -->
+<div id="livere-comment">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTI0MC8xMTc3Ng==">
+	<script type="text/ls-javascript" id="livere-comment-js">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+       if (typeof LivereTower === 'function') { return; }
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+</div>
+</div>
+<style>
+    #livere-comment{
+        background-color: #eee;
+        padding: 2pc;
+    }
+</style>
 
                 
             </div>
@@ -568,6 +567,21 @@
 
     <!-- Categories  -->
     
+        <li class="dropdown">
+            <a href="#" class="ripple-effect dropdown-toggle" data-toggle="dropdown">
+                
+                    <i class="material-icons sidebar-material-icons">chrome_reader_mode</i>
+                
+                分类
+                <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                
+            </ul>
+        </li>
+        
+    
 
     <!-- Pages  -->
     
@@ -584,16 +598,6 @@
         
     
         <li>
-            <a href="/timeline" title="Timeline">
-                
-                    <i class="material-icons sidebar-material-icons">send</i>
-                
-                Timeline
-            </a>
-        </li>
-        
-    
-        <li>
             <a href="/gallery" title="Gallery">
                 
                     <i class="material-icons sidebar-material-icons">photo_library</i>
@@ -604,7 +608,7 @@
         
     
         <li>
-            <a href="/test" title="About Me">
+            <a href="/aboutme" title="About Me">
                 
                     <i class="material-icons sidebar-material-icons">person_pin</i>
                 
@@ -754,7 +758,8 @@ It will not impact the appearance and can give developers a lot of support :)
             Copyright&nbsp;© • <script type="text/javascript">var fd = new Date();document.write("&nbsp;" + fd.getFullYear() + "&nbsp; • ");</script><class="footer-develop-div"> <a href="https://gaotf.tk" target="_blank" class="footer-develop-a">i-Share</a>
             
         </div>
-
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
         <!-- Paradox Footer Right Section -->
 
         <!--
@@ -810,6 +815,10 @@ It will not impact the appearance and can give developers a lot of support :)
 </script>
 
 
+
+    
+        <script>lsloader.load("sm_js","/js/smoothscroll.js?tNQK2Tw2SUL8a1Scn/Mgew==", true)</script>
+    
 
 
 
