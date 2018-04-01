@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaotf.tk/"/>
-  <updated>2018-03-29T09:19:19.863Z</updated>
+  <updated>2018-04-01T10:52:49.616Z</updated>
   <id>https://gaotf.tk/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo+GitHub搭建个人博客（基础篇）</title>
-    <link href="https://gaotf.tk/2018/03/28/Hexo+GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%89/"/>
-    <id>https://gaotf.tk/2018/03/28/Hexo+GitHub搭建个人博客（基础篇）/</id>
+    <link href="https://gaotf.tk/posts/c28f15d0/"/>
+    <id>https://gaotf.tk/posts/c28f15d0/</id>
     <published>2018-03-28T09:38:11.000Z</published>
-    <updated>2018-03-29T09:19:19.863Z</updated>
+    <updated>2018-04-01T10:52:49.616Z</updated>
     
     <summary type="html">
     
@@ -50,10 +50,10 @@
   
   <entry>
     <title>i-Share</title>
-    <link href="https://gaotf.tk/2018/03/21/i-Share/"/>
-    <id>https://gaotf.tk/2018/03/21/i-Share/</id>
+    <link href="https://gaotf.tk/posts/d09585e3/"/>
+    <id>https://gaotf.tk/posts/d09585e3/</id>
     <published>2018-03-21T15:19:35.107Z</published>
-    <updated>2018-03-24T14:02:45.378Z</updated>
+    <updated>2018-04-01T10:52:49.611Z</updated>
     
     <summary type="html">
     
@@ -73,10 +73,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gaotf.tk/2018/03/21/hello-world/"/>
-    <id>https://gaotf.tk/2018/03/21/hello-world/</id>
+    <link href="https://gaotf.tk/posts/4a17b156/"/>
+    <id>https://gaotf.tk/posts/4a17b156/</id>
     <published>2018-03-21T11:43:13.561Z</published>
-    <updated>2018-03-21T11:43:13.562Z</updated>
+    <updated>2018-04-01T10:52:49.614Z</updated>
     
     <summary type="html">
     

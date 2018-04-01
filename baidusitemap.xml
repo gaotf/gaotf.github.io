@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>https://gaotf.tk/2018/03/28/Hexo+GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%89/</loc>
-    <lastmod>2018-03-29T09:19:19.863Z</lastmod>
+    <loc>https://gaotf.tk/posts/c28f15d0/</loc>
+    <lastmod>2018-04-01T10:52:49.616Z</lastmod>
     <data>
         <display>
         <title>Hexo+GitHub搭建个人博客（基础篇）</title>
@@ -30,12 +30,24 @@
     </url>
 
     
-    
-    
+  <url>
+    <loc>https://gaotf.tk/posts/4a17b156/</loc>
+    <lastmod>2018-04-01T10:52:49.614Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-03-21T11:43:13.561Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
     
   <url>
-    <loc>https://gaotf.tk/2018/03/21/i-Share/</loc>
-    <lastmod>2018-03-24T14:02:45.378Z</lastmod>
+    <loc>https://gaotf.tk/posts/d09585e3/</loc>
+    <lastmod>2018-04-01T10:52:49.611Z</lastmod>
     <data>
         <display>
         <title>i-Share</title>
@@ -48,18 +60,6 @@
     </url>
 
     
-  <url>
-    <loc>https://gaotf.tk/2018/03/21/hello-world/</loc>
-    <lastmod>2018-03-21T11:43:13.562Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-03-21T11:43:13.561Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
+    
+    
 </urlset>
