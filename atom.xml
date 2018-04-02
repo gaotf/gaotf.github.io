@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>i-Share</title>
   
-  
+  <subtitle>一起分享世界点滴</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaotf.tk/"/>
@@ -10,7 +10,7 @@
   <id>https://gaotf.tk/</id>
   
   <author>
-    <name>gaotf-xj</name>
+    <name>Gaotf-xj</name>
     
   </author>
   
