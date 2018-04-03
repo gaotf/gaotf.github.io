@@ -3,6 +3,33 @@
   
     
     <entry>
+      <title>iOS软件推荐--暮梅（Mume）</title>
+      <link href="/posts/a00eda23/"/>
+      <url>/posts/a00eda23/</url>
+      <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>暮梅（Mume）是iOS系统的一款优秀的<strong>免费</strong>网(科)络(学)代(上)理(网)软件。</p><h4 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h4><p>通过一系列规则，定制自己的网络环境。通过规则，用户可以对指定的网络请求执行特定的操作（直连、拒绝、代理），以此达到屏蔽广告、穿越防火墙等功能。</p><h4 id="特色"><a href="#特色" class="headerlink" title="特色"></a>特色</h4><ul><li>连接时可采用PAC代理模式，即：国内网站使用直连，国外网站使用代理。</li><li>内置多条免费路线，使用简单，特别适合小白使用。</li><li>预设广告屏蔽规则组，告别广告烦扰。</li><li>拥有Widget组件一键开启或关闭，使用十分便捷。</li><li>支持自定义路线和规则组，不仅可以手动添加SS / SSR / Socks5，还支持二维码和URL导入路线和规则组。</li></ul><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://i.loli.net/2018/04/03/5ac39450a5eb1.jpg"></p><h3 id="使用技巧"><a href="#使用技巧" class="headerlink" title="使用技巧"></a>使用技巧</h3><blockquote><p>第一次使用时可能需要其他“网络代理软件”配合使用！建议下载<code>狸猫ud∧</code> （手机旋转180°）  </p></blockquote><p>第一次打开暮梅（Mume）时<code>首页</code> 和<code>管理</code> 页面显可能示为空白，解决方法有两种</p><p><img src="https://i.loli.net/2018/04/03/5ac3838172515.png" width="50%"></p><ul><li><p>方法一：</p><p>关闭暮梅（Mume）打开刚刚下载的“狸猫”开启代理，先确认可以访问Google之后，再次打开暮梅（Mume）。此时管理页面的<code>代理</code> 和<code>规则组</code> 应该会出现软件预设的配置（代理和规则组）。</p><p><img src="https://i.loli.net/2018/04/03/5ac38ca8edaca.jpg"></p></li><li><p>方法二：</p><p>若此方法一无效请不要关闭“狸猫”，打开暮梅（Mume）的 <code>更多</code> -&gt; <code>使用手册</code> -&gt; <code>使用说明</code> 点击页面中的<a href="https://mumevpn.com/reset.php" target="_blank" rel="noopener">链接</a>重置暮梅（Mume）</p><p><img src="https://i.loli.net/2018/04/03/5ac385bf1c573.png" width="50%"></p></li></ul><h4 id="添加-删除预设"><a href="#添加-删除预设" class="headerlink" title="添加/删除预设"></a>添加/删除预设</h4><p><img src="https://i.loli.net/2018/04/03/5ac395b500bfe.jpg" width="50%"></p><h4 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h4><p>部分预设代理是有<code>有效期</code>的，具体的有效期请在添加代理的时候先看一下<code>Expiry date</code> </p><p><img src="https://i.loli.net/2018/04/03/5ac38f807615e.jpg"></p><h3 id="导入代理"><a href="#导入代理" class="headerlink" title="导入代理"></a>导入代理</h3><blockquote><p>首先你要有可导入的代理，可以选择自己搭建或者选择别人分享的路线。  </p></blockquote><p>下面分享几个免费SS / SSR 路线的网站</p><ul><li><a href="https://doub.ws/sszhfx/" target="_blank" rel="noopener">免费SS/SSR账号分享</a> </li><li><a href="https://www.namaho.org/" target="_blank" rel="noopener">namaho</a> </li></ul><h4 id="二维码导入"><a href="#二维码导入" class="headerlink" title="二维码导入"></a>二维码导入</h4><p>点击<code>首页</code> 右上角的➕号选择<code>从二维码导入</code> 或者在<code>更多</code> 页面点击 <code>从二维码导入</code></p><p><img src="https://i.loli.net/2018/04/03/5ac38ae715749.jpg"> </p><h4 id="URL导入"><a href="#URL导入" class="headerlink" title="URL导入"></a>URL导入</h4><p>在 <code>更多</code>页面选择<code>从URL导入配置</code> </p><p><img src="https://i.loli.net/2018/04/03/5ac38bff5c837.jpg" width="50%"></p><h4 id="手动导入"><a href="#手动导入" class="headerlink" title="手动导入"></a>手动导入</h4><p>点击 <code>首页</code> 右上角➕号选择 <code>手动导入</code>代理类型等配置根据具体路线选择填写。</p><p><img src="https://i.loli.net/2018/04/03/5ac38c1fcde1d.jpg" width="50%"></p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><ul><li>没有美区Apple ID的同学请关注 <code>微信公众号:i爱上分享</code> ，后台回复 <code>美区ID</code>获取账号。</li><li>登陆美区app store 搜索<code>暮梅</code> 或者<code>Mume</code> 下载</li></ul><p><img src="https://i.loli.net/2018/04/03/5ac3988a65c8c.png" alt="微信公众号：i爱上分享" align="center">  </p>]]></content>
+      
+      <categories>
+          
+          <category> iOS软件 </category>
+          
+          <category> 自由上网 </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 自由上网 </tag>
+            
+            <tag> 软件推荐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Hexo+GitHub搭建个人博客（基础篇）</title>
       <link href="/posts/c28f15d0/"/>
       <url>/posts/c28f15d0/</url>
