@@ -4,8 +4,83 @@
 
     
   <url>
+    <loc>https://gaotf.tk/posts/7c0510df/</loc>
+    <lastmod>2018-04-03T16:07:26.247Z</lastmod>
+    <data>
+        <display>
+        <title>「实测」美区Apple ID注册三部曲</title>
+        <pubTime>2018-04-03T15:16:20.000Z</pubTime>
+        
+        <tag>教程</tag>
+         
+        <tag>Apple</tag>
+         
+        <tag>实测</tag>
+         
+         
+           
+             
+              <breadCrumb title="自由上网" url="https://gaotf.tk/categories/%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91/"/>
+          
+             
+              <breadCrumb title="Apple" url="https://gaotf.tk/categories/%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91/Apple/"/>
+          
+             
+              <breadCrumb title="教程" url="https://gaotf.tk/categories/%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91/Apple/%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://gaotf.tk/posts/c28f15d0/</loc>
+    <lastmod>2018-04-03T15:25:32.273Z</lastmod>
+    <data>
+        <display>
+        <title>「小白系列」Hexo+GitHub搭建博客-基础篇</title>
+        <pubTime>2018-03-28T09:38:11.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+        <tag>博客</tag>
+         
+         
+           
+             
+              <breadCrumb title="教程" url="https://gaotf.tk/categories/%E6%95%99%E7%A8%8B/"/>
+          
+             
+              <breadCrumb title="博客" url="https://gaotf.tk/categories/%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2/"/>
+          
+             
+              <breadCrumb title="Git" url="https://gaotf.tk/categories/%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://gaotf.tk/posts/d09585e3/</loc>
+    <lastmod>2018-04-03T15:23:31.941Z</lastmod>
+    <data>
+        <display>
+        <title>i-Share博客测试</title>
+        <pubTime>2018-03-22T16:00:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://gaotf.tk/posts/a00eda23/</loc>
-    <lastmod>2018-04-03T15:08:41.508Z</lastmod>
+    <lastmod>2018-04-03T15:13:26.620Z</lastmod>
     <data>
         <display>
         <title>iOS软件推荐--暮梅（Mume）</title>
@@ -23,42 +98,12 @@
              
               <breadCrumb title="自由上网" url="https://gaotf.tk/categories/iOS%E8%BD%AF%E4%BB%B6/%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91/"/>
           
-             
-              <breadCrumb title="教程" url="https://gaotf.tk/categories/iOS%E8%BD%AF%E4%BB%B6/%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91/%E6%95%99%E7%A8%8B/"/>
-          
         </display>
     </data>
     </url>
 
     
     
-    
-  <url>
-    <loc>https://gaotf.tk/posts/c28f15d0/</loc>
-    <lastmod>2018-04-01T10:52:49.616Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo+GitHub搭建个人博客（基础篇）</title>
-        <pubTime>2018-03-28T09:38:11.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>github</tag>
-         
-        <tag>博客</tag>
-         
-         
-           
-             
-              <breadCrumb title="教程" url="https://gaotf.tk/categories/%E6%95%99%E7%A8%8B/"/>
-          
-             
-              <breadCrumb title="博客" url="https://gaotf.tk/categories/%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>https://gaotf.tk/posts/4a17b156/</loc>
@@ -67,21 +112,6 @@
         <display>
         <title>Hello World</title>
         <pubTime>2018-03-21T11:43:13.561Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://gaotf.tk/posts/d09585e3/</loc>
-    <lastmod>2018-04-01T10:52:49.611Z</lastmod>
-    <data>
-        <display>
-        <title>i-Share</title>
-        <pubTime>2018-03-21T15:19:35.107Z</pubTime>
         
          
            
