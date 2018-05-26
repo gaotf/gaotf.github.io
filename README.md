@@ -20,4 +20,4 @@ Github访问地址：https://gaotf.github.io
 
 Coding访问地址：https://gaotf-xj.coding.me
 
-国内访问地址：https://gaotf.ga
+国内访问地址：https://gaotfxj.tk
