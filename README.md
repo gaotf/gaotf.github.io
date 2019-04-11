@@ -16,8 +16,4 @@
 
 Github访问地址：https://gaotf.github.io
 
-国外访问地址：https://gaotf.tk
-
 Coding访问地址：https://gaotf-xj.coding.me
-
-国内访问地址：https://gaotfxj.tk
